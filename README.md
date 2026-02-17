@@ -71,4 +71,5 @@ flutter run -d windows
 * [ ] **Bug** Exiting game while submitting causes crash
 * [ ] **Feautre** Switch where leaderboard and game transcript are between stats and profile
 * [ ] **Bug** Ratelimit accounts made
+* [ ] 
 © 2026 Peter Ma. All Rights Reserved.
