@@ -7,7 +7,7 @@
 ## Key Features
 
 * **Academic Progression:** Earn **Merits** to rank up and **Credits** to unlock new **Majors** (word categories).
-* **The Grind:** * **Level Up:** Every 5 levels earns you a Credit.
+* **The Grind:** Every 5 levels earns you a Credit.
 * **Rank Up:** Every 10 levels increases your academic standing.
 
 
@@ -52,24 +52,5 @@ flutter run -d chrome
 flutter run -d windows
 
 ```
-
-## Roadmap
-
-* [ ] **Social Auth:** Integration for Google and Facebook logins.
-* [ ] **Profile Customization:** User-editable profiles (username, password, avatar).
-* [ ] **Google/Apple Stores** Policies, store page etc.
-* [ ] **Autoplay Music** Does not autoplay sometimes on web.
-* [ ] **Polishing:** Audio cues for UI feedback and password strength validation.
-* [ ] **Words:** Increase possible word lists for each major.
-* [ ] **Forgot Password:** Add password resetting (two screens: forgot, and reset)
-* [ ] **Anti-Cheat Logic:** Implement "Active Game" session tracking to prevent users from refreshing the browser to avoid a loss or reset their streak.
-* [ ] **Bug** Refreshing in-game while in-game music is playing -> Get sent back to home screen -> in-game music doesn't switch to menu music
-* [ ] **Bug** Attempt at preventing cheating by navigating to home screen ok refresh causes the play button in game setup to redirect to home screen
-* [ ] **Feature** Need to indicate user on which length words have been mastered or progressed through since its currently unknown
-* [ ] **Bug** Typing fast when game loads has keyboard sounds all play at once eventually
-* [ ] **Update** Improve appearance of dialog of sync conflict
-* [ ] **Bug** Exiting game while submitting causes crash
-* [ ] **Feautre** Switch where leaderboard and game transcript are between stats and profile
-* [ ] **Bug** Ratelimit accounts made
 
 © 2026 Peter Ma. All Rights Reserved.
