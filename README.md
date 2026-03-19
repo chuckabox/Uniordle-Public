@@ -7,7 +7,7 @@
 ## Key Features
 
 * **Academic Progression:** Earn **Merits** to rank up and **Credits** to unlock new **Majors** (word categories).
-* **The Grind:** Every 5 levels earns you a Credit.
+* **The Grind:** * **Level Up:** Every 5 levels earns you a Credit.
 * **Rank Up:** Every 10 levels increases your academic standing.
 
 
@@ -53,4 +53,6 @@ flutter run -d windows
 
 ```
 
-© 2026 Peter Ma. All Rights Reserved.
+<p align="center">
+    © 2026 Peter Ma. All Rights Reserved.
+</p>
