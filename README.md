@@ -39,7 +39,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/chuckabox/uniordle.git
+git clone https://github.com/chuckabox/Uniordle-Public.git
 
 # Install dependencies
 cd uniordle
