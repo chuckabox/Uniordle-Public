@@ -11,7 +11,7 @@
 * **Rank Up:** Every 10 levels increases your academic standing.
 
 
-* **High Stakes:** Abandoning a game or losing results in a scaling penalty—the higher your level, the more you stand to lose.
+* **High Stakes:** Abandoning a game or losing results in a scaling penalty.
 * **Mastery System:** Solve every word in a major to for mastery. Master every major for a major reward.
 * **Cross-Platform:** Smooth performance on Web and Windows via Flutter.
 
